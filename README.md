@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # How to contribute
 
 Thanks for being interested to work on the website, I tried to make a simple 
@@ -119,3 +120,6 @@ signatures and that the sigs match, that the items on the website are in
 fact in dist, only allow certain people to put files in certain places,
 etc. One day! :)
 # tp_donation
+=======
+# torproject.org
+>>>>>>> c995eb9a5df384a49b02ef59eb73fc25382312a8
